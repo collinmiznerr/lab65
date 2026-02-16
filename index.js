@@ -7,7 +7,7 @@ ScrollReveal().reveal(photos[0], {
     delay: 100,
     easing: 'ease-out',
     rotate: {
-        x: 30,
+        x: 180,
         z: 30
     }
 });
